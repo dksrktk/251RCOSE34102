@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\edf.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747896297 c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\process.h
+
+1747896332 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\fcfs.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747897428 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\gantt.c
+	<stdio.h>
+	"process.h"
+
+1747897585 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\ljf_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747897704 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\ljf_p.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\mlfq.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890555 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\mlq.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\priority_io_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747897588 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\priority_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\priority_p.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747891931 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\priority_rr.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\priority_update.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\rm.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890555 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\rr.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747890554 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\sif_np.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"process.h"
+
+1747897557 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\sjf_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747897656 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\sjf_p.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1747896263 source:c:\users\plmqa\onedrive\문서\2025 강의\os\termproject\termproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"process.h"
+
+1748192289 source:d:\2025 강의\os\termproj\edf.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748012999 d:\2025 강의\os\termproj\process.h
+
+1748187116 source:d:\2025 강의\os\termproj\fcfs.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748014022 source:d:\2025 강의\os\termproj\gantt.c
+	<stdio.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\ljf_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\ljf_p.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748192109 source:d:\2025 강의\os\termproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"process.h"
+
+1748191697 source:d:\2025 강의\os\termproj\mlfq.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\mlq.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748183152 source:d:\2025 강의\os\termproj\priority_io_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\priority_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\priority_p.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\priority_rr.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\priority_update.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748192289 source:d:\2025 강의\os\termproj\rm.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\sif_np.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\sjf_np.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\sjf_p.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748187116 source:d:\2025 강의\os\termproj\rr.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1748186079 source:d:\2025 강의\os\termproj\double_fcfs.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
